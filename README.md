@@ -5,7 +5,7 @@
 `-pip install some bitches`
 ```
 X ─────────────────────────────────────────────────────────── X
-| ・PhantomGamingdevelopment@github.com                        
+| ・github.com/PhantomGamingdevelopment                      
 | ------------                                                 
 | 📧・Mail @ bottom of website page
 | 📝・14 y                                                   
