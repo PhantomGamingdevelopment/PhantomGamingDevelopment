@@ -4,7 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?PhantomGamingdevelopment&label=PROFILE-VIEWS)
 
-`-pip install some bitches`
 ```
 X ─────────────────────────────────────────────────────────── X
 | ・github.com/PhantomGamingdevelopment                      
