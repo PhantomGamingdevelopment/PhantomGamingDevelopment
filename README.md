@@ -39,3 +39,4 @@ http://fappos.site
 https://fappos.agency
 https://fappos.solutions
 https://phntm.cloud
+https://hextorgbandcmyk.xyz
