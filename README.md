@@ -12,7 +12,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=5C00FF&center=true&vCenter=true&lines=Pip+install+some+bitches)](https://git.io/typing-svg)
+
 
 ![](https://komarev.com/ghpvc/?PhantomGamingdevelopment&label=PROFILE-VIEWS)
 
